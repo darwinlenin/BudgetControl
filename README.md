@@ -1,5 +1,9 @@
 # Budget Control React App
 
+This project was deployed in Nelity (https://budgetcontrols.netlify.app/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5734dd8b-fd7d-4fe4-b112-47cff4cb1a48/deploy-status)](https://app.netlify.com/sites/budgetcontrols/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
